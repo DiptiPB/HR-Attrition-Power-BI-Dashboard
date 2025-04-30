@@ -15,10 +15,10 @@ This project covers setting up the dashboard layout, connecting data, creating D
 - Build DAX measures for dynamic calculations and improve interactivity with filters and slicers.
   
 ## Findings and Conclusion
-
-- **Call Volume Trends:** Peak periods vary across the week, aiding workforce optimization.
-- **Calls vs Revenue:** Higher call volume does not always lead to higher revenue, emphasizing call quality and efficiency.
-- **Gender Distribution:** Some locations have more female callers, enabling targeted customer engagement.
-- **Revenue Distribution:** Certain regions generate higher revenue, identifying high-value customer bases for strategic focus.
-
-These findings support data-driven decision-making, enabling improved resource management and revenue optimization.
+- The overall attrition rate helps benchmark turnover and track changes over time.
+- Higher attrition is commonly seen in younger age groups and certain job roles like Sales.
+- Gender-based differences are minimal but may vary by department or role.
+- Employees with specific education levels or fields (e.g., Life Sciences) show higher attrition, suggesting role fit issues.
+- Custom age groups reveal clear trends and allow focused retention strategies.
+- Time-based trends show seasonal spikes, useful for planning interventions.
+- These findings support data-driven decision-making, enabling improved resource management and revenue optimization.
