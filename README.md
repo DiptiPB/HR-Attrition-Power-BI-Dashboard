@@ -22,3 +22,5 @@ This project covers setting up the dashboard layout, connecting data, creating D
 - Custom age groups reveal clear trends and allow focused retention strategies.
 - Time-based trends show seasonal spikes, useful for planning interventions.
 - These findings support data-driven decision-making, enabling improved resource management and revenue optimization.
+
+- With these findings, organizations can proactively address turnover risks and enhance employee retention efforts.
